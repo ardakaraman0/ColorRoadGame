@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/followplayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shatter.cs">
     <Files>
-      <File FileName="Assets/Scripts/BallMovement.cs" Line="14" Column="17" />
-      <File FileName="Assets/Scripts/CameraFollow.cs" Line="14" Column="1" />
-      <File FileName="Assets/followplayer.cs" Line="15" Column="2" />
+      <File FileName="Assets/Scripts/SphereCollision.cs" Line="20" Column="38" />
+      <File FileName="Assets/Scripts/Shatter.cs" Line="87" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="New Unity Project" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True" />
-              <Node name="followplayer.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Shatter.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="44fb2a3b-3c9e-425d-b1d5-e649e7d6251d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ff2855e6-dc68-4c4a-ab57-8634d0503436" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
